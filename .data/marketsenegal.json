@@ -1,0 +1,286 @@
+{
+  "users": [
+    {
+      "id": "791fa2ff-f78f-48c6-a6c9-bcb7be38f776",
+      "email": "diengmoustapha910@gmail.com",
+      "password_hash": "6ffea50f58c2fffee0ee6e90a2e30623:17e8b923c44a83c143909effa8611b8ebbaa9ddd5c6224ba9f058016dead8fceb3b8ca7ae86e737daf4475a7c02fe7df78fc5597182227322ccf606342ef1bd9",
+      "full_name": "Direction Market Sénégal",
+      "phone": "+221 33 800 00 00",
+      "role": "admin",
+      "created_at": "2026-10-26T12:58:37.445Z",
+      "updated_at": "2026-10-27T09:34:46.656Z",
+      "must_change_password": false
+    },
+    {
+      "email": "test_reset_1793022808928@test.sn",
+      "password_hash": "5b0391b0abc853b5b4c11c233985e099:fbd2f61f4f6b70cca9ff90583d6daf01fb3b9df7bb70fe556ded96db8df245ac32438e53bd6b598eab0c5b06f8a9c016cfcb786c88c163808ad59dd99471b612",
+      "full_name": "Test Reset User",
+      "phone": "+221770000000",
+      "role": "client",
+      "id": "35e8c002-832a-48d9-a098-c0031ca28cdb",
+      "created_at": "2026-10-26T13:53:29.053Z",
+      "updated_at": "2026-10-26T13:53:29.083Z"
+    },
+    {
+      "email": "vendor_msg_1793022843892@test.sn",
+      "password_hash": "f9378f2ba26f529f8ed6e55863bb84c5:2044f1f3cfe635efb9e004019879dd3374aa44f6bb394911b480e4e08303c763d4a9c1d8f7247b9ad393c21f797e21be24216e67ea81505b01948267265e4886",
+      "full_name": "Ousmane Vendeur",
+      "phone": "+221771111111",
+      "role": "vendeur",
+      "id": "95fdfb70-cac9-4a8a-b759-8f8630cf1867",
+      "created_at": "2026-10-26T13:54:04.016Z",
+      "updated_at": "2026-10-26T13:54:04.034Z"
+    },
+    {
+      "email": "client_msg_1793022844038@test.sn",
+      "password_hash": "7e2316dd90eb564ba273a841fcf61167:f83d5d725a2a2f40b9c6c027fd826472a629d8581102528d708e758dc68361163f2d8a93ddd1becb3cec83db48a351487c8843c6b3600be0aab1165b70aae80f",
+      "full_name": "Aicha Cliente",
+      "phone": "+221772222222",
+      "role": "client",
+      "id": "52e09476-f2c8-4e7a-9636-97a76ed2a74b",
+      "created_at": "2026-10-26T13:54:04.042Z",
+      "updated_at": "2026-10-26T13:54:04.042Z"
+    },
+    {
+      "email": "intruder_1793022844085@test.sn",
+      "password_hash": "8c2ec3a59e9a82debe623ab33caceaa5:6119215164df6149074ea245569d0fe761f16c9b249fe3b071572249b301e7c1c68c8526f64ad04caec6b22c946d127cf138b0da9d7fbd1102720cf967fb5e52",
+      "full_name": "Intruder User",
+      "role": "client",
+      "id": "b7ae8f79-b6cc-4c8f-9d4a-12d7f97ef99b",
+      "created_at": "2026-10-26T13:54:04.089Z",
+      "updated_at": "2026-10-26T13:54:04.089Z"
+    },
+    {
+      "email": "hacker@test.com",
+      "password_hash": "5263d1861d28fddbb7c6b00a983cddcf:839c9229859b9198a57d9733b02c0081879df586ed78704af2d1de81c49256432b8f5b1cf93cb2ef4a9155b67614cda3adc4d979d4a3cb57689f4be3eb198202",
+      "full_name": "Test Admin Attempt",
+      "role": "client",
+      "id": "98dce465-5812-40c4-8ac7-02da5bacf86c",
+      "created_at": "2026-10-27T09:34:15.398Z",
+      "updated_at": "2026-10-27T09:34:15.398Z"
+    }
+  ],
+  "sessions": [
+    {
+      "token": "2c7821a214b3c25fe9eff9e226f426de2b42c394d61c210a13a9a3a7f624d9e0",
+      "user_id": "35e8c002-832a-48d9-a098-c0031ca28cdb",
+      "created_at": "2026-10-26T13:53:29.054Z",
+      "expires_at": "2026-11-25T13:53:29.054Z"
+    },
+    {
+      "token": "5856e1be341610c2d412b49cb99525a67d55c19f48336003a3b3b91ad7d6f817",
+      "user_id": "35e8c002-832a-48d9-a098-c0031ca28cdb",
+      "created_at": "2026-10-26T13:53:29.083Z",
+      "expires_at": "2026-11-25T13:53:29.083Z"
+    },
+    {
+      "token": "62a693e60b427af723c1a8b0d10f274c3f734fee4eca753ccfcc5ded2d8f712b",
+      "user_id": "35e8c002-832a-48d9-a098-c0031ca28cdb",
+      "created_at": "2026-10-26T13:53:29.094Z",
+      "expires_at": "2026-11-25T13:53:29.094Z"
+    },
+    {
+      "token": "e8cd1fcb1a2c98f4bd6184160061c928c74891371d06839885cb8536399c4e33",
+      "user_id": "95fdfb70-cac9-4a8a-b759-8f8630cf1867",
+      "created_at": "2026-10-26T13:54:04.016Z",
+      "expires_at": "2026-11-25T13:54:04.016Z"
+    },
+    {
+      "token": "920664429af8357b9b208af938293f6a809f84132b3a5969b9ea2338fe8870bc",
+      "user_id": "52e09476-f2c8-4e7a-9636-97a76ed2a74b",
+      "created_at": "2026-10-26T13:54:04.042Z",
+      "expires_at": "2026-11-25T13:54:04.042Z"
+    },
+    {
+      "token": "083308ea62a4d1fd8654c6327715a5b8c0577cd025efdc053fa9a44bc0f19ee9",
+      "user_id": "b7ae8f79-b6cc-4c8f-9d4a-12d7f97ef99b",
+      "created_at": "2026-10-26T13:54:04.089Z",
+      "expires_at": "2026-11-25T13:54:04.089Z"
+    },
+    {
+      "token": "f454eabf0cda537a7664090ce9fc58d631d36dd8c14b1d4d8cbdc8f2eea5a83c",
+      "user_id": "98dce465-5812-40c4-8ac7-02da5bacf86c",
+      "created_at": "2026-10-27T09:34:15.398Z",
+      "expires_at": "2026-11-26T09:34:15.398Z"
+    },
+    {
+      "token": "f6774a8231a7d6b1451409d484f748b6a853eed5dad85874d16effa0f4acd433",
+      "user_id": "791fa2ff-f78f-48c6-a6c9-bcb7be38f776",
+      "created_at": "2026-10-27T09:34:39.491Z",
+      "expires_at": "2026-11-26T09:34:39.491Z"
+    }
+  ],
+  "stores": [
+    {
+      "user_id": "95fdfb70-cac9-4a8a-b759-8f8630cf1867",
+      "name": "Boutique Teranga 1793022844027",
+      "slug": "boutique-teranga-1793022844027-764",
+      "description": "Artisanat et mode senegalaise",
+      "phone": "+221771111111",
+      "address": "Marche HLM, Dakar",
+      "city": "Dakar",
+      "plan_tier": "essentiel",
+      "allows_cod": true,
+      "id": "37b81aa4-3a12-4adc-addb-b6c70ec03cda",
+      "is_active": true,
+      "is_suspended": false,
+      "is_certified": false,
+      "certification_status": "non_certifiee",
+      "created_at": "2026-10-26T13:54:04.034Z",
+      "updated_at": "2026-10-26T13:54:04.034Z"
+    }
+  ],
+  "store_suspensions": [],
+  "store_certifications": [],
+  "delivery_zones": [
+    {
+      "id": "a7271668-ad43-409e-8694-d513ce0d9184",
+      "store_id": "37b81aa4-3a12-4adc-addb-b6c70ec03cda",
+      "region": "Dakar",
+      "price_fcfa": 2000,
+      "estimated_days": "24h-48h",
+      "created_at": "2026-10-26T13:54:04.035Z"
+    }
+  ],
+  "store_categories": [],
+  "products": [],
+  "coupons": [],
+  "orders": [],
+  "order_items": [],
+  "conversations": [
+    {
+      "id": "69a8a2a8-b2e3-41ca-aaea-ca3096689478",
+      "store_id": "37b81aa4-3a12-4adc-addb-b6c70ec03cda",
+      "customer_id": "52e09476-f2c8-4e7a-9636-97a76ed2a74b",
+      "created_at": "2026-10-26T13:54:04.047Z",
+      "updated_at": "2026-10-26T13:54:04.070Z"
+    }
+  ],
+  "messages": [
+    {
+      "id": "97898deb-7054-49d2-bee2-304385a8dfb9",
+      "conversation_id": "69a8a2a8-b2e3-41ca-aaea-ca3096689478",
+      "sender_id": "52e09476-f2c8-4e7a-9636-97a76ed2a74b",
+      "content": "Bonjour, ce boubou est-il disponible en taille L ?",
+      "is_read": true,
+      "created_at": "2026-10-26T13:54:04.051Z"
+    },
+    {
+      "id": "e256e67c-951f-4919-aacc-7729150cf813",
+      "conversation_id": "69a8a2a8-b2e3-41ca-aaea-ca3096689478",
+      "sender_id": "95fdfb70-cac9-4a8a-b759-8f8630cf1867",
+      "content": "Waaw Aicha ! La taille L est bien disponible en atelier a Dakar.",
+      "is_read": true,
+      "created_at": "2026-10-26T13:54:04.070Z"
+    }
+  ],
+  "subscriptions": [],
+  "platform_reviews": [],
+  "audit_logs": [
+    {
+      "id": "6d2c4040-91df-413f-8cdb-dc969c43a2bb",
+      "admin_id": "791fa2ff-f78f-48c6-a6c9-bcb7be38f776",
+      "admin_name": "Direction Market Sénégal",
+      "action": "system_initialized",
+      "target_type": "platform",
+      "details": {
+        "message": "Initialisation sécurisée de la plateforme MARKET SÉNÉGAL"
+      },
+      "created_at": "2026-10-26T12:58:37.446Z"
+    },
+    {
+      "id": "850a198e-f6e6-4804-853f-30c17b993f0b",
+      "admin_id": "791fa2ff-f78f-48c6-a6c9-bcb7be38f776",
+      "admin_name": "Direction Market Sénégal",
+      "action": "admin_password_reset",
+      "target_type": "user",
+      "target_id": "791fa2ff-f78f-48c6-a6c9-bcb7be38f776",
+      "details": {
+        "email": "admin@marketsenegal.com",
+        "method": "secure_recovery_token"
+      },
+      "created_at": "2026-10-26T13:54:39.436Z"
+    },
+    {
+      "id": "c60047ce-2568-4952-a111-8c6aced19c1d",
+      "admin_id": "791fa2ff-f78f-48c6-a6c9-bcb7be38f776",
+      "admin_name": "Direction Market Sénégal",
+      "action": "admin_login_success",
+      "target_type": "security",
+      "target_id": "791fa2ff-f78f-48c6-a6c9-bcb7be38f776",
+      "details": {
+        "ip": "127.0.0.1"
+      },
+      "created_at": "2026-10-26T13:54:39.443Z"
+    },
+    {
+      "id": "2b160e24-f12e-4c9e-a182-a6a6e5a6558a",
+      "admin_id": "791fa2ff-f78f-48c6-a6c9-bcb7be38f776",
+      "admin_name": "Direction Market Sénégal",
+      "action": "admin_login_failed",
+      "target_type": "security",
+      "target_id": "791fa2ff-f78f-48c6-a6c9-bcb7be38f776",
+      "details": {
+        "ip": "127.0.0.1",
+        "attemptsRemaining": 4
+      },
+      "created_at": "2026-10-26T13:54:39.448Z"
+    },
+    {
+      "id": "7483833c-0897-4389-a013-9cfb0107b282",
+      "admin_id": "791fa2ff-f78f-48c6-a6c9-bcb7be38f776",
+      "admin_name": "Direction Market Sénégal",
+      "action": "admin_password_reset",
+      "target_type": "user",
+      "target_id": "791fa2ff-f78f-48c6-a6c9-bcb7be38f776",
+      "details": {
+        "email": "diengmoustapha910@gmail.com",
+        "method": "secure_recovery_token"
+      },
+      "created_at": "2026-10-27T09:34:30.184Z"
+    },
+    {
+      "id": "b4ca6b98-73e8-42ef-9ead-0a867910ab16",
+      "admin_id": "791fa2ff-f78f-48c6-a6c9-bcb7be38f776",
+      "admin_name": "Direction Market Sénégal",
+      "action": "admin_login_success",
+      "target_type": "security",
+      "target_id": "791fa2ff-f78f-48c6-a6c9-bcb7be38f776",
+      "details": {
+        "ip": "127.0.0.1"
+      },
+      "created_at": "2026-10-27T09:34:39.491Z"
+    },
+    {
+      "id": "786e6fb9-f432-44a1-9ac0-5d5e96618552",
+      "admin_id": "791fa2ff-f78f-48c6-a6c9-bcb7be38f776",
+      "admin_name": "Direction Market Sénégal",
+      "action": "admin_login_success",
+      "target_type": "security",
+      "target_id": "791fa2ff-f78f-48c6-a6c9-bcb7be38f776",
+      "details": {
+        "ip": "127.0.0.1"
+      },
+      "created_at": "2026-10-27T09:34:46.637Z"
+    },
+    {
+      "id": "d4a09308-d39f-48b1-bde7-4242e4297a43",
+      "admin_id": "791fa2ff-f78f-48c6-a6c9-bcb7be38f776",
+      "admin_name": "Direction Market Sénégal",
+      "action": "admin_password_changed",
+      "target_type": "security",
+      "target_id": "791fa2ff-f78f-48c6-a6c9-bcb7be38f776",
+      "details": {
+        "otherSessionsTerminated": 2
+      },
+      "created_at": "2026-10-27T09:34:46.657Z"
+    }
+  ],
+  "ai_config": {
+    "daily_quota_per_store": 25,
+    "enabled": true,
+    "provider": "Google Gemini"
+  },
+  "password_reset_tokens": [],
+  "ai_usage_logs": []
+}

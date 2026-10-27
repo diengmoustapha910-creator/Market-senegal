@@ -1,0 +1,6 @@
+{
+  "name": "MARKET SÉNÉGAL",
+  "description": "Le grand marché en ligne du Sénégal - Plateforme e-commerce multi-vendeurs avec 0% de commission sur les ventes, gestion de boutiques, commandes et livraisons locales.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
